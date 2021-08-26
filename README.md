@@ -1,5 +1,5 @@
 ## Ads
-[Ads templates](https://kurdlabteam.github.io/test/ads.html)
+[Ads templates](https://kurdlabteam.github.io/test/)
 
 
 
